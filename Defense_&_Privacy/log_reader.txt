@@ -1,0 +1,101 @@
+Feb 25 08:00:01 server CRON[1111]: pam_unix(cron:session): session opened for user root
+Feb 25 08:00:01 server CRON[1111]: pam_unix(cron:session): session closed for user root
+Feb 25 08:05:22 server sshd[2222]: Accepted publickey for thiago from 10.0.0.15 port 54321 ssh2
+Feb 25 08:05:22 server sshd[2222]: pam_unix(sshd:session): session opened for user thiago
+Feb 25 08:08:12 server sudo: thiago : TTY=pts/0 ; PWD=/home/thiago ; USER=root ; COMMAND=/usr/bin/apt update
+Feb 25 08:11:05 server sshd[3333]: Connection closed by 192.168.1.100 port 33442 [preauth]
+Feb 25 08:12:00 server sshd[4444]: Failed password for root from 203.0.113.42 port 44322 ssh2
+Feb 25 08:13:01 server sshd[4444]: Connection closed by authenticating user root 203.0.113.42 port 44322 [preauth]
+Feb 25 08:15:00 server CRON[5555]: pam_unix(cron:session): session opened for user root
+Feb 25 08:15:00 server CRON[5555]: pam_unix(cron:session): session closed for user root
+Feb 25 08:20:01 server CRON[1112]: pam_unix(cron:session): session opened for user root
+Feb 25 08:20:01 server CRON[1112]: pam_unix(cron:session): session closed for user root
+Feb 25 08:25:22 server sshd[2223]: Accepted publickey for admin from 10.0.0.16 port 54322 ssh2
+Feb 25 08:25:22 server sshd[2223]: pam_unix(sshd:session): session opened for user admin
+Feb 25 08:28:12 server sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Feb 25 08:31:05 server sshd[3334]: Connection closed by 192.168.1.101 port 33443 [preauth]
+Feb 25 08:32:00 server sshd[4445]: Failed password for admin from 198.51.100.23 port 55433 ssh2
+Feb 25 08:33:01 server sshd[4445]: Connection closed by authenticating user admin 198.51.100.23 port 55433 [preauth]
+Feb 25 08:35:00 server CRON[5556]: pam_unix(cron:session): session opened for user root
+Feb 25 08:35:00 server CRON[5556]: pam_unix(cron:session): session closed for user root
+Feb 25 08:40:01 server CRON[1113]: pam_unix(cron:session): session opened for user root
+Feb 25 08:40:01 server CRON[1113]: pam_unix(cron:session): session closed for user root
+Feb 25 08:45:22 server sshd[2224]: Accepted publickey for jhader from 10.0.0.17 port 54323 ssh2
+Feb 25 08:45:22 server sshd[2224]: pam_unix(sshd:session): session opened for user jhader
+Feb 25 08:48:12 server sudo: jhader : TTY=pts/2 ; PWD=/home/jhader ; USER=root ; COMMAND=/usr/bin/htop
+Feb 25 08:51:05 server sshd[3335]: Connection closed by 192.168.1.102 port 33444 [preauth]
+Feb 25 08:52:00 server sshd[4446]: Failed password for root from 104.25.10.5 port 60211 ssh2
+Feb 25 08:53:01 server sshd[4446]: Connection closed by authenticating user root 104.25.10.5 port 60211 [preauth]
+Feb 25 08:55:00 server CRON[5557]: pam_unix(cron:session): session opened for user root
+Feb 25 08:55:00 server CRON[5557]: pam_unix(cron:session): session closed for user root
+Feb 25 09:00:01 server CRON[1114]: pam_unix(cron:session): session opened for user root
+Feb 25 09:00:01 server CRON[1114]: pam_unix(cron:session): session closed for user root
+Feb 25 09:05:22 server sshd[2225]: Accepted publickey for thiago from 10.0.0.15 port 54324 ssh2
+Feb 25 09:05:22 server sshd[2225]: pam_unix(sshd:session): session opened for user thiago
+Feb 25 09:08:12 server sudo: thiago : TTY=pts/0 ; PWD=/home/thiago ; USER=root ; COMMAND=/usr/bin/ufw status
+Feb 25 09:11:05 server sshd[3336]: Connection closed by 192.168.1.103 port 33445 [preauth]
+Feb 25 09:12:00 server sshd[4447]: Failed password for invalid user oracle from 185.15.55.22 port 33214 ssh2
+Feb 25 09:13:01 server sshd[4447]: Connection closed by authenticating user oracle 185.15.55.22 port 33214 [preauth]
+Feb 25 09:15:00 server CRON[5558]: pam_unix(cron:session): session opened for user root
+Feb 25 09:15:00 server CRON[5558]: pam_unix(cron:session): session closed for user root
+Feb 25 09:20:01 server CRON[1115]: pam_unix(cron:session): session opened for user root
+Feb 25 09:20:01 server CRON[1115]: pam_unix(cron:session): session closed for user root
+Feb 25 09:25:22 server sshd[2226]: Accepted publickey for admin from 10.0.0.16 port 54325 ssh2
+Feb 25 09:25:22 server sshd[2226]: pam_unix(sshd:session): session opened for user admin
+Feb 25 09:28:12 server sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cat /var/log/syslog
+Feb 25 09:31:05 server sshd[3337]: Connection closed by 192.168.1.104 port 33446 [preauth]
+Feb 25 09:32:00 server sshd[4448]: Failed password for root from 172.16.0.42 port 54122 ssh2
+Feb 25 09:33:01 server sshd[4448]: Connection closed by authenticating user root 172.16.0.42 port 54122 [preauth]
+Feb 25 09:35:00 server CRON[5559]: pam_unix(cron:session): session opened for user root
+Feb 25 09:35:00 server CRON[5559]: pam_unix(cron:session): session closed for user root
+Feb 25 09:40:01 server CRON[1116]: pam_unix(cron:session): session opened for user root
+Feb 25 09:40:01 server CRON[1116]: pam_unix(cron:session): session closed for user root
+Feb 25 09:45:22 server sshd[2227]: Accepted publickey for jhader from 10.0.0.17 port 54326 ssh2
+Feb 25 09:45:22 server sshd[2227]: pam_unix(sshd:session): session opened for user jhader
+Feb 25 09:48:12 server sudo: jhader : TTY=pts/2 ; PWD=/home/jhader ; USER=root ; COMMAND=/usr/bin/docker ps
+Feb 25 09:51:05 server sshd[3338]: Connection closed by 192.168.1.105 port 33447 [preauth]
+Feb 25 09:52:00 server sshd[4449]: Failed password for test from 210.14.15.66 port 12433 ssh2
+Feb 25 09:53:01 server sshd[4449]: Connection closed by authenticating user test 210.14.15.66 port 12433 [preauth]
+Feb 25 09:55:00 server CRON[5560]: pam_unix(cron:session): session opened for user root
+Feb 25 09:55:00 server CRON[5560]: pam_unix(cron:session): session closed for user root
+Feb 25 10:00:01 server CRON[1117]: pam_unix(cron:session): session opened for user root
+Feb 25 10:00:01 server CRON[1117]: pam_unix(cron:session): session closed for user root
+Feb 25 10:05:22 server sshd[2228]: Accepted publickey for thiago from 10.0.0.15 port 54327 ssh2
+Feb 25 10:05:22 server sshd[2228]: pam_unix(sshd:session): session opened for user thiago
+Feb 25 10:08:12 server sudo: thiago : TTY=pts/0 ; PWD=/home/thiago ; USER=root ; COMMAND=/usr/bin/nano /etc/ssh/sshd_config
+Feb 25 10:11:05 server sshd[3339]: Connection closed by 192.168.1.106 port 33448 [preauth]
+Feb 25 10:12:00 server sshd[4450]: Failed password for root from 8.8.8.8 port 44322 ssh2
+Feb 25 10:13:01 server sshd[4450]: Connection closed by authenticating user root 8.8.8.8 port 44322 [preauth]
+Feb 25 10:15:00 server CRON[5561]: pam_unix(cron:session): session opened for user root
+Feb 25 10:15:00 server CRON[5561]: pam_unix(cron:session): session closed for user root
+Feb 25 10:20:01 server CRON[1118]: pam_unix(cron:session): session opened for user root
+Feb 25 10:20:01 server CRON[1118]: pam_unix(cron:session): session closed for user root
+Feb 25 10:25:22 server sshd[2229]: Accepted publickey for admin from 10.0.0.16 port 54328 ssh2
+Feb 25 10:25:22 server sshd[2229]: pam_unix(sshd:session): session opened for user admin
+Feb 25 10:28:12 server sudo: admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/auth.log
+Feb 25 10:31:05 server sshd[3340]: Connection closed by 192.168.1.107 port 33449 [preauth]
+Feb 25 10:32:00 server sshd[4451]: Failed password for root from 114.114.114.114 port 55555 ssh2
+Feb 25 10:33:01 server sshd[4451]: Connection closed by authenticating user root 114.114.114.114 port 55555 [preauth]
+Feb 25 10:35:00 server CRON[5562]: pam_unix(cron:session): session opened for user root
+Feb 25 10:35:00 server CRON[5562]: pam_unix(cron:session): session closed for user root
+Feb 25 10:40:01 server CRON[1119]: pam_unix(cron:session): session opened for user root
+Feb 25 10:40:01 server CRON[1119]: pam_unix(cron:session): session closed for user root
+Feb 25 10:45:22 server sshd[2230]: Accepted publickey for jhader from 10.0.0.17 port 54329 ssh2
+Feb 25 10:45:22 server sshd[2230]: pam_unix(sshd:session): session opened for user jhader
+Feb 25 10:48:12 server sudo: jhader : TTY=pts/2 ; PWD=/home/jhader ; USER=root ; COMMAND=/usr/bin/nmap -sS localhost
+Feb 25 10:51:05 server sshd[3341]: Connection closed by 192.168.1.108 port 33450 [preauth]
+Feb 25 10:52:00 server sshd[4452]: Failed password for root from 1.1.1.1 port 66666 ssh2
+Feb 25 10:53:01 server sshd[4452]: Connection closed by authenticating user root 1.1.1.1 port 66666 [preauth]
+Feb 25 10:55:00 server CRON[5563]: pam_unix(cron:session): session opened for user root
+Feb 25 10:55:00 server CRON[5563]: pam_unix(cron:session): session closed for user root
+Feb 25 11:00:01 server CRON[1120]: pam_unix(cron:session): session opened for user root
+Feb 25 11:00:01 server CRON[1120]: pam_unix(cron:session): session closed for user root
+Feb 25 11:05:22 server sshd[2231]: Accepted publickey for thiago from 10.0.0.15 port 54330 ssh2
+Feb 25 11:05:22 server sshd[2231]: pam_unix(sshd:session): session opened for user thiago
+Feb 25 11:08:12 server sudo: thiago : TTY=pts/0 ; PWD=/home/thiago ; USER=root ; COMMAND=/usr/bin/clear
+Feb 25 11:11:05 server sshd[3342]: Connection closed by 192.168.1.109 port 33451 [preauth]
+Feb 25 11:12:00 server sshd[4453]: Failed password for root from 9.9.9.9 port 22222 ssh2
+Feb 25 11:13:01 server sshd[4453]: Connection closed by authenticating user root 9.9.9.9 port 22222 [preauth]
+Feb 25 11:15:00 server CRON[5564]: pam_unix(cron:session): session opened for user root
+Feb 25 11:15:00 server CRON[5564]: pam_unix(cron:session): session closed for user root
+Feb 25 11:20:00 server systemd[1]: Started Clean php session files.
