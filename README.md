@@ -29,7 +29,6 @@ Relatórios técnicos documentando aprendizados e resoluções de problemas apli
 | Título | Descrição | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **SSH Log Analyzer** | Estudo sobre otimização de memória com `yield` e raw strings. | ✅ Concluído | [Ler Writeup](./Defense_&_Privacy/Writeup_LogAnalyzer.md) |
-| **Controle de Acesso** | Resolução de falhas de segurança utilizando POO. | ✅ Concluído | [Ler Writeup](./Writeups/Writeup_DevSec_Banking.md) |
 
 ## 🧪 Laboratório e Tecnologias Ativas
 Conceitos e bibliotecas que estou aplicando nos códigos atuais:
